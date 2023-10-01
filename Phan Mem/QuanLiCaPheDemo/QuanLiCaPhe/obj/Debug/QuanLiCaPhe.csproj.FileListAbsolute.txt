@@ -1,0 +1,55 @@
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\ResolveAssemblyReference.cache
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmFromChu.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.Properties.Resources.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.GenerateResource.Cache
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\bin\Debug\QuanLiCaPhe.exe
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\bin\Debug\QuanLiCaPhe.pdb
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.exe
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.pdb
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmFormMenu.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmDoiPass.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmNhapXuatNguyenLieu.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmCTNhapNL.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmCTXuatNL.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmChamCongNV.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmSoDoChinh.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmKhuA.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmKhuB.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmCTBan.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmMenuQuanLi.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmQuanLiNV.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmQuanLiNL.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmThemDVT.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReportHD.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_BL.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmBaoCao.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_DT.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_CTBanHang.resources
+D:\Đồ án chuyên ngành\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_BanSDNhieu.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.AssemblyReference.cache
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmBaoCao.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmChamCongNV.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmCTBan.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmCTNhapNL.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmCTXuatNL.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmDoiPass.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmFormMenu.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmFromChu.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmKhuA.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmKhuB.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmMenuQuanLi.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmNhapXuatNguyenLieu.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmQuanLiNL.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmQuanLiNV.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReportHD.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_BanSDNhieu.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_BL.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_CTBanHang.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmReport_DT.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmSoDoChinh.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.frmThemDVT.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.Properties.Resources.resources
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.GenerateResource.cache
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.csproj.CoreCompileInputs.cache
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.exe
+E:\PhanMem_Quan_Ly_Quan_CaPhe\Phan Mem\QuanLiCaPheDemo\QuanLiCaPhe\obj\Debug\QuanLiCaPhe.pdb
